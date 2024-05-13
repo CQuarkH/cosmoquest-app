@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267906357053",
+    "project_id": "cosmo-quest",
+    "storage_bucket": "cosmo-quest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267906357053:android:d13a599d3428a901ba1754",
+        "android_client_info": {
+          "package_name": "com.example.cosmo_quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAssHgaQy4gug2gmViQD5g8ST8DczzEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
